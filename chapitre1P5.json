@@ -1,0 +1,168 @@
+{
+    "page51:":{
+        "titlepage51":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023",
+        "contenu":"
+        [1] Les péritonites graves sont définies par l’apparition d’au moins deux des éléments suivants, en
+l’absence d’autre cause :
+1. Hypotension rapportée au sepsis
+2. Lactates plasmatiques au-dessus des valeurs normales du laboratoire
+3. Diurèse < 0,5 mL/kg/h pendant plus de 2 heures malgré un remplissage adapté
+4. Ratio PaO2/FiO2< 250 mmHg en l’absence de pneumopathie
+5. Créatininémie > 2 mg/dL (176,8 μmol/L)
+6. Bilirubinémie > 2 mg/dL (34,2 μmol/L)
+7. Thrombopénie < 100 000 /mm3
+[2] Dans les péritonites graves, il faut probablement instaurer un traitement antifongique si au moins
+3 des critères parmi les éléments suivants sont retrouvés (Grade 2+) Accord FORT :
+1. Défaillance hémodynamique,
+2. Sexe féminin,
+3. Chirurgie sus-mésocolique,
+4. Antibiothérapie depuis plus de 48 heures.
+Dans les IIA associées aux soins, il faut probablement* initier un traitement antifongique probabiliste
+si une levure est observée à l’examen direct.
+Dans tous les cas d’IIA associées aux soins où la culture du liquide péritonéal est positive à levures,
+il faut initier un traitement antifongique.
+Des échinocandines sont indiquées en cas d'infection grave ou de souches résistantes au fluconazole).
+[3] Facteur de risque de BMR : Lors du premier épisode d'IIA associée aux soins, il faut évoquer un
+risque élevé d'isoler une bactérie multi-résistante dans les circonstances suivantes:
+- Traitement antérieur par céphalosporine de 3e génération ou fluoroquinolone dans les 3 mois.
+- Portage d'une entérobactérie porteuse d'une bêta-lactamase à spectre élargie, ou Pseudomonas
+aeruginosa résistant à la ceftazidime, sur un prélèvement de moins de 3 mois, quel que soit le site.
+- Hospitalisation à l'étranger dans les 12 mois précédents.
+- Patient vivant en EHPAD médicalisé ou soins de longue durée ET porteur d'une sonde à demeure
+et/ou d'une gastrotomie.
+- Echec de traitement par une antibiothérapie à large spectre par céphalosporine de 3e génération ou
+fluoroquinolone ou pipéracilline–tazobactam.
+- Récidive précoce (< 15 jours) d'une infection traitée par pipéracilline–tazobactam pendant au moins
+3 jours).
+[4] Facteurs de risque d’entérocoque résistant à l’ampicilline :Pathologie hépato-billiaire, transplanté
+hépatique, antibiothérapie en cours.
+        ",
+        "Références":"Prise en charge des infections intra-abdominales. SFAR2015.",
+    },
+
+    "page52":{
+        "title52":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "content":"",
+    },
+
+    "page53":{
+        "title53":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "titre53":"Infections urinaires (IU)
+        ",
+        "Définitions et terminologie
+        ":"
+
+        Les infections urinaires sont un motif très fréquent de consultation et de prescription d’antibiotiques
+aussi bien en ville qu’en pratique hospitalière. La confirmation repose sur la mise en évidence d’une
+leucocyturie et d’une bactériurie significatives.
+Cystite aigue
+Les signes habituellement rencontrés sont : brûlures mictionnelles, pollakiurie, dysurie, urgenturie
+et douleurs hypogastriques. Ces signes sont d’autant plus prédictifs d’une infection urinaire qu’il
+n’existe pas une infection vaginale associée. Une cystite aiguë simple ne s’accompagne jamais de
+fièvre. La présence d’une hématurie macroscopique, facteur discriminatif de l’atteinte urinaire,
+n’est pas inhabituelle dans les cystites aiguës et ne représente pas un facteur de complication.
+Pyélonéphrite aiguë (PNA)
+La pyélonéphrite aiguë (PNA) est définie par l’infection bactérienne du parenchyme rénal et du
+système collecteur du rein. La PNA est suspectée devant la survenue brutale de signes de cystite
+associés aux signes d’atteinte du parenchyme rénal.
+• Une fièvre supérieure à 38°5, des frissons, un malaise général ;
+• Des douleurs lombaires ou costo-vertébrales, le plus souvent unilatérales. Elles peuvent être
+spontanées, ou provoquées lors de l’examen clinique. Elles peuvent irradier sous les côtes ou
+descendre vers le pubis, évoquant une colique néphrétique.
+• Des troubles digestifs (nausées, vomissements, diarrhée, ballonnements).
+Infections urinaires masculines
+Le terme « infections urinaires masculines » inclut diverses présentations cliniques, des formes peu
+symptomatiques sans fièvre jusqu'au choc septique. Cette diversité justifie de moduler la prise en
+charge initiale en fonction des signes cliniques.
+Bactériurie asymptomatique (BA)
+Elle correspond à un ECBU positif chez un patient asymptomatique. Le seuil de 105 UFC/ml est
+classiquement retenu. Chez la femme, un 2ème ECBU positif avec la même bactérie, est utile pour
+retenir la BA. La leucocyturie n’a pas d’intérêt dans ce cas
+        ",
+    },
+
+    "page54":{
+        "title54:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "contenu53":"Infection urinaire simple
+        Une infection urinaire est considérée comme simple lorsqu’elle survient chez une femme jeune,
+        non enceinte et sans antécédents pathologiques particuliers.
+        Infection urinaire à risque de complication
+        Lorsqu’il existe au moins un facteur de risque pouvant rendre l’infection plus grave et le
+        traitement plus complexe :
+        - Toute anomalie organique ou fonctionnelle de l'arbre urinaire
+        - Sexe masculin
+        - Grossesse
+        - Sujet âgé
+        - Immunodépression grave (immunomodulateurs, cirrhose, transplantation)
+        - Insuffisance rénale chronique sévère (clairance < 30 ml/min)
+        Infection urinaire grave
+        Ce sont les PNA et les IU masculines associées à : Un sepsis, un choc septique ou une indication
+        de drainage chirurgical ou interventionnel.
+        ▪ Le sepsis est défini par une infection associée à une dysfonction d’organe en rapport avec une
+        réponse inappropriée de l’organisme à l’infection et attestée par un score de SOFA ≥ 2 (tableau II)
+        ▪ Choc septique : c’est un sepsis associé à une hypotension, nécessitant le recours aux drogues
+        vasoactives pour maintenir une pression artérielle moyenne ≥ 65 mmHg et des lactates sanguines
+        > 2 mmol/l. ",
+        "img53":"",
+    },
+
+    "page55":{
+        "title55:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+        "content55:":"
+        Facteurs de risque de néphrotoxicité des aminosides
+• Age avancé (> 75 ans).
+• Utilisation concomitante d’autres médicaments néphrotoxiques ou de produits de contraste
+iodés.
+• Déshydratation.
+• Insuffisance rénale (clairance de la créatinine < 60 ml/min).
+• Néphropathie préexistante ou concomitante.
+• Cirrhose sévère de grades B et C selon la classification de Child-Pugh .
+• Prise de médicaments favorisant l’hypoperfusion rénale (diurétiques de l'anse, inhibiteurs
+de l’enzyme de conversion ou antagonistes de l'angiotensine II, anti-inflammatoires non
+stéroïdiens) Facteurs de risque de résistance aux FQs : prise de FQs ou hospitalisation
+dans les 6 mois précédents
+Facteurs de risques d’EBLSE
+• Hospitalisation dans les 6 mois
+• Antibiothérapie (Amox-acide clavulanique, C2G, C3G, FQ) dans les 6 mois
+• Antécédent de colonisation ou IU à EBLSE dans les 6 mois
+        ",
+
+    },
+    "page55":{
+        "title55:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+
+    },
+    "page55":{
+        "title55:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+
+    },
+    "page55":{
+        "title55:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+
+    },
+    "page55":{
+        "title55:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+
+    },
+    "page55":{
+        "title55:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+
+    },
+    "page55":{
+        "title55:":"ANTIBIOGUIDE – CHU SAHLOUL – GU/CT 01_V1_03/01/2023
+        ",
+
+    },
+
+    
+
+}
